@@ -1,2 +1,3 @@
 apples
 kiwi
+banana
